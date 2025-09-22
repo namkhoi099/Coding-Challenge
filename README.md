@@ -18,15 +18,15 @@ Based on Node.js / Express.js / Firebase / React.js
 
 <h3 align="center">[Register by verify email (Employee)]</h3>
 
-![Register by verify email (Employee)](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/email-verifcation.png)
+![Register by verify email (Employee)](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/email-verification.png)
 
 <h3 align="center">[Employees]</h3>
 
-![Employees](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/Employee.png)
+![Employees](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/employee.png)
 
 <h3 align="center">[Employee Create Form]</h3>
 
-![Employee Form Create](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/Employee-Create.png)
+![Employee Form Create](https://github.com/namkhoi099/Coding-Challenge/blob/main/Screenshot/employee-create.png)
 
 <h3 align="center">[Employee Update Form]</h3>
 
